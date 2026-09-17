@@ -1,0 +1,16 @@
+C:\Users\alicewx\Documents\Github Repo\TechnicalQuestions_Besi\TechnicalQuestions1\obj\Debug\net10.0\TechnicalQuestions1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alicewx\Documents\Github Repo\TechnicalQuestions_Besi\TechnicalQuestions1\obj\Debug\net10.0\TechnicalQuestions1.AssemblyInfoInputs.cache
+C:\Users\alicewx\Documents\Github Repo\TechnicalQuestions_Besi\TechnicalQuestions1\obj\Debug\net10.0\TechnicalQuestions1.AssemblyInfo.cs
+C:\Users\alicewx\Documents\Github Repo\TechnicalQuestions_Besi\TechnicalQuestions1\obj\Debug\net10.0\TechnicalQuestions1.csproj.CoreCompileInputs.cache
+C:\Users\alicewx\Documents\Github Repo\TechnicalQuestions_Besi\TechnicalQuestions1\obj\Debug\net10.0\TechnicalQuestions1.sourcelink.json
+C:\Users\alicewx\Documents\Github Repo\TechnicalQuestions_Besi\TechnicalQuestions1\bin\Debug\net10.0\TechnicalQuestions1.exe
+C:\Users\alicewx\Documents\Github Repo\TechnicalQuestions_Besi\TechnicalQuestions1\bin\Debug\net10.0\TechnicalQuestions1.deps.json
+C:\Users\alicewx\Documents\Github Repo\TechnicalQuestions_Besi\TechnicalQuestions1\bin\Debug\net10.0\TechnicalQuestions1.runtimeconfig.json
+C:\Users\alicewx\Documents\Github Repo\TechnicalQuestions_Besi\TechnicalQuestions1\bin\Debug\net10.0\TechnicalQuestions1.dll
+C:\Users\alicewx\Documents\Github Repo\TechnicalQuestions_Besi\TechnicalQuestions1\bin\Debug\net10.0\TechnicalQuestions1.pdb
+C:\Users\alicewx\Documents\Github Repo\TechnicalQuestions_Besi\TechnicalQuestions1\obj\Debug\net10.0\TechnicalQuestions1.dll
+C:\Users\alicewx\Documents\Github Repo\TechnicalQuestions_Besi\TechnicalQuestions1\obj\Debug\net10.0\refint\TechnicalQuestions1.dll
+C:\Users\alicewx\Documents\Github Repo\TechnicalQuestions_Besi\TechnicalQuestions1\obj\Debug\net10.0\TechnicalQuestions1.pdb
+C:\Users\alicewx\Documents\Github Repo\TechnicalQuestions_Besi\TechnicalQuestions1\obj\Debug\net10.0\TechnicalQuestions1.genruntimeconfig.cache
+C:\Users\alicewx\Documents\Github Repo\TechnicalQuestions_Besi\TechnicalQuestions1\obj\Debug\net10.0\ref\TechnicalQuestions1.dll
+C:\Users\alicewx\Documents\Github Repo\TechnicalQuestions_Besi\TechnicalQuestions1\bin\Debug\net10.0\Input.txt
